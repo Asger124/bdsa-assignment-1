@@ -1,0 +1,15 @@
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\bin\Debug\net6.0\Myapp.exe
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\bin\Debug\net6.0\Myapp.deps.json
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\bin\Debug\net6.0\Myapp.runtimeconfig.json
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\bin\Debug\net6.0\Myapp.dll
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\bin\Debug\net6.0\Myapp.pdb
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\obj\Debug\net6.0\Myapp.csproj.AssemblyReference.cache
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\obj\Debug\net6.0\Myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\obj\Debug\net6.0\Myapp.AssemblyInfoInputs.cache
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\obj\Debug\net6.0\Myapp.AssemblyInfo.cs
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\obj\Debug\net6.0\Myapp.csproj.CoreCompileInputs.cache
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\obj\Debug\net6.0\Myapp.dll
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\obj\Debug\net6.0\refint\Myapp.dll
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\obj\Debug\net6.0\Myapp.pdb
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\obj\Debug\net6.0\Myapp.genruntimeconfig.cache
+C:\Users\asger\ITU\3.semester\bdsa\bdsa-assignment-1\Myapp\Myapp\obj\Debug\net6.0\ref\Myapp.dll
