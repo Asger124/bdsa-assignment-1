@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asger\\ITU\\3.semester\\bdsa\\bdsa-assignment-1\\LeapYear\\LeapYear\\LeapYear.csproj": {}
+    "c:\\Users\\asger\\ITU\\3.semester\\bdsa\\bdsa-assignment-1\\LeapYear\\LeapYear\\LeapYear.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asger\\ITU\\3.semester\\bdsa\\bdsa-assignment-1\\LeapYear\\LeapYear\\LeapYear.csproj": {
+    "c:\\Users\\asger\\ITU\\3.semester\\bdsa\\bdsa-assignment-1\\LeapYear\\LeapYear\\LeapYear.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asger\\ITU\\3.semester\\bdsa\\bdsa-assignment-1\\LeapYear\\LeapYear\\LeapYear.csproj",
+        "projectUniqueName": "c:\\Users\\asger\\ITU\\3.semester\\bdsa\\bdsa-assignment-1\\LeapYear\\LeapYear\\LeapYear.csproj",
         "projectName": "LeapYear",
-        "projectPath": "C:\\Users\\asger\\ITU\\3.semester\\bdsa\\bdsa-assignment-1\\LeapYear\\LeapYear\\LeapYear.csproj",
+        "projectPath": "c:\\Users\\asger\\ITU\\3.semester\\bdsa\\bdsa-assignment-1\\LeapYear\\LeapYear\\LeapYear.csproj",
         "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asger\\ITU\\3.semester\\bdsa\\bdsa-assignment-1\\LeapYear\\LeapYear\\obj\\",
+        "outputPath": "c:\\Users\\asger\\ITU\\3.semester\\bdsa\\bdsa-assignment-1\\LeapYear\\LeapYear\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asger\\AppData\\Roaming\\NuGet\\NuGet.Config"
